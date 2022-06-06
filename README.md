@@ -29,11 +29,12 @@ You Can see a Link being generated Copy or Visit the link by Clicking on the But
 
 And There You Go ! 🎉
 
-![ScreenShot of Form](screenshots/Rishii.png)
+![ScreenShot of Form](screenshots/Abhijeet.png)
+
 
 ## ScreenShot of Coutdown Timer⏲️
 
-![ScreenShot of Countdown](screenshots/Abhijeet.png)
+![ScreenShot of Countdown](screenshots/Rishii.png)
 
 ## Birthday Wisher🎂
 
