@@ -33,7 +33,7 @@ And There You Go ! 🎉
 
 ## ScreenShot of Coutdown Timer⏲️
 
-![ScreenShot of Countdown](screenshots/Abhii.png)
+![ScreenShot of Countdown](screenshots/Abhijeet.png)
 
 ## Birthday Wisher🎂
 
