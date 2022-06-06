@@ -30,7 +30,7 @@ const Countdown = ({ countdownData, name }) => {
     );
   } else {
     return <Wish name={name} />;
-  }
+ }
 };
 
 export default Countdown;

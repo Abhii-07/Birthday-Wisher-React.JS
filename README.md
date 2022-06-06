@@ -29,16 +29,16 @@ You Can see a Link being generated Copy or Visit the link by Clicking on the But
 
 And There You Go ! 🎉
 
-![ScreenShot of Form](screenshots/duma.png)
+![ScreenShot of Form](screenshots/Rishii.png)
 
 ## ScreenShot of Coutdown Timer⏲️
 
-![ScreenShot of Countdown](screenshots/countdown.png)
+![ScreenShot of Countdown](screenshots/Abhii.png)
 
 ## Birthday Wisher🎂
 
 Loads this Page Instead of Coutdown on the Birthday
-![ScreenShot of Countdown](screenshots/wishPage.png)
+![ScreenShot of Countdown](screenshots/Wish.png)
 
 It's Fully Responsive and you change styles in the `app.css`
 
