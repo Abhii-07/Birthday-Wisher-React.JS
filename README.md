@@ -22,7 +22,7 @@ or Head to [https://clinquant-tanuki-64d41e.netlify.app/generate]()
 
 Enter the `name , day , month of birthday`
 
-![ScreenShot of Form](screenshots/Generate.png)
+![ScreenShot of Form](screenshots/generate.png)
 
 Click on Generate Link
 
