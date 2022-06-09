@@ -22,7 +22,7 @@ or Head to [https://clinquant-tanuki-64d41e.netlify.app/generate]()
 
 Enter the `name , day , month of birthday`
 
-![ScreenShot of Form]()
+![ScreenShot of Form](screenshots/Generate.png)
 
 Click on Generate Link
 
@@ -30,17 +30,17 @@ You Can see a Link being generated Copy or Visit the link by Clicking on the But
 
 And There You Go ! 🎉
 
-![ScreenShot of Form]()
+![ScreenShot of Form](screenshots/Abhijeet.png)
 
 
 ## ScreenShot of Coutdown Timer⏲️
 
-![ScreenShot of Countdown]()
+![ScreenShot of Countdown](screenshots/Rishii.png)
 
 ## Birthday Wisher🎂
 
 Loads this Page Instead of Coutdown on the Birthday
-![ScreenShot of Countdown]()
+![ScreenShot of Countdown](screenshots/Wish.png)
 
 It's Fully Responsive and you change styles in the `app.css`
 
