@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 
+
+
 const Generate = () => {
   const [name, setName] = useState('');
   const [day, setDay] = useState(1);
@@ -8,9 +10,10 @@ const Generate = () => {
   const [link, setLink] = useState('');
   const generateLink = () => {
     setLink(
-      `https://birthday-wisher.netlify.app/birthday/${name}/${day}/${month}`
+      ` https://clinquant-tanuki-64d41e.netlify.app/birthday/${name}/${day}/${month}`
     );
   };
+// https://birthday-wisher.netlify.app/birthday/${name}/${day}/${month}`
   return (
     <div className='page'>
       <h1>Generate Here</h1>

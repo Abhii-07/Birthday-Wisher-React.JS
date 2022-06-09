@@ -15,6 +15,7 @@ To get It running locally:
 ## Usage:
 
 Visit [https://birthday-wisher.netlify.app/]()
+<!-- https://clinquant-tanuki-64d41e.netlify.app/ -->
 
 Click on Generate Link
 or Head to [https://birthday-wisher.netlify.app/generate]()
