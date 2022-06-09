@@ -18,7 +18,7 @@ Visit [https://clinquant-tanuki-64d41e.netlify.app/]()
 <!-- https://clinquant-tanuki-64d41e.netlify.app/ -->
 
 Click on Generate Link
-or Head to [https://birthday-wisher.netlify.app/generate]()
+or Head to [https://clinquant-tanuki-64d41e.netlify.app/generate]()
 
 Enter the `name , day , month of birthday`
 
